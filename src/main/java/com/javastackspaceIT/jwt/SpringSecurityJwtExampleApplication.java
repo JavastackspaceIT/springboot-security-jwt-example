@@ -31,6 +31,25 @@ public class SpringSecurityJwtExampleApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringSecurityJwtExampleApplication.class, args);
+        
+        System.out.println("main mehtod is called");
+        System.out.println("main mehtod is called");
+        System.out.println("main mehtod is called");
+        System.out.println("main mehtod is called");
+        System.out.println("main mehtod is called");
+        System.out.println("main mehtod is called");
+        System.out.println("main mehtod is called");
+        System.out.println("main mehtod is called");
+        System.out.println("main mehtod is called");
+        System.out.println("main mehtod is called");System.out.println("main mehtod is called");
+        System.out.println("main mehtod is called");
+        
+        
+        
+        
+        
+        
+        
     }
 
 }
